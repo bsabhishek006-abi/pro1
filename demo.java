@@ -9,5 +9,4 @@ class demo
     {
       demo obj =new demo();
     }
-    print("hello")
   }
